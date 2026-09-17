@@ -69,7 +69,7 @@ sudo dnf install python3-tkinter
  
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/password_program.git
+git clone https://github.com/Mithun-ksd/password_program.git
 cd password_program
 ```
  
